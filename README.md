@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about exploring the world of Machin
 - 🌐 Contributing to projects around generative models, transformers, and large-scale AI systems.
 
 ## 📫 How to Reach Me:
-- Email: nagv8900@gmail.com
+- Email: nageswararaovutla7@gmail.com
 
 ## 😄 Pronouns:
 - He/Him

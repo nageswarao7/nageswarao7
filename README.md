@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about exploring the world of Machin
 - 🤖 **Tech Stack**: Python, Mysql, PostgreSql, Streamlit, Flask, FastAPI, PgAdmin, Postman PyTorch, Hugging Face, OpenAI API, LLaMA, Gemini, Scikit-Learn, and more.
 
 ## 💞️ I’m Looking to Collaborate On:
-- 🔬 Machine learning research, especially in the domains of NLP and computer vision.
+- 🔬 Machine learning research, especially in the domains of NLP, computer vision and GenAI.
 - 🧑‍💻 Open-source projects related to AI/ML.
 - 🌐 Contributing to projects around generative models, transformers, and large-scale AI systems.
 

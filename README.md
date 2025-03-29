@@ -1,6 +1,6 @@
 # Hi there, I'm Nageswara Rao 👋
 
-Welcome to my GitHub profile! I'm passionate about exploring the world of Machine Learning and AI, and I'm currently working as a **Associate Maachine Learning/Generative AI Engineer**. Here's a little more about me:
+Welcome to my GitHub profile! I'm passionate about exploring the world of Machine Learning and AI, and I'm currently working as a **Maachine Learning/Generative AI Engineer**. Here's a little more about me:
 
 ## 👀 About Me
 - 🔍 **Currently exploring**: Machine Learning algorithms and large language models (LLMs) like OpenAI's models, LLaMA, and Google's Gemini.

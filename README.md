@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about exploring the world of Machin
 ## 👀 About Me
 - 🔍 **Currently exploring**: Machine Learning algorithms and large language models (LLMs) like OpenAI's models, LLaMA, and Google's Gemini.
 - 🌱 **Learning**: I’m focused on gaining deeper knowledge in deep learning, NLP, and reinforcement learning, with hands-on experience in building and deploying models.
-- 💼 **Work Experience**: As a Machine Learning intern, I’m working on various ML/AI projects, experimenting with model architectures, fine-tuning, and optimizing performance.
+- 💼 **Work Experience**: As a Machine Learning/Generative AI Engineer, I’m working on various ML/AI projects, experimenting with model architectures, fine-tuning, and optimizing performance.
 - 🤖 **Tech Stack**: Python, Mysql, PostgreSql, Streamlit, Flask, FastAPI, PgAdmin, Postman PyTorch, Hugging Face, OpenAI API, LLaMA, Gemini, Scikit-Learn, and more.
 
 ## 💞️ I’m Looking to Collaborate On:
